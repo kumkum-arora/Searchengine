@@ -1,0 +1,58 @@
+.search1 {
+    margin-top: 3%;
+}
+
+.navbar {
+    background-color: rgb(250, 250, 250);
+    width: 100%;
+    height: 50px;
+    box-shadow: 3px 3px 7px rgb(168, 167, 167);
+    display: flex;
+}
+
+.nav {
+    width: 1424px;
+    height: 50px;
+    margin: auto;
+
+}
+
+.globe {
+    font-size: 46px;
+    color: rgb(58, 58, 214);
+    margin: 5px 5px 5px 8px;
+
+}
+
+.hed {
+    font-size: 46px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    color: rgb(58, 58, 214);
+}
+
+.main {
+    margin-top: 5px;
+    border-spacing: 10px;
+    padding-bottom: 10px;
+}
+
+.txt {
+    color: rgb(58, 58, 214);
+    margin: 12px 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.heading {
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main1 {
+    border-bottom: 3px solid #EEE;
+    border-spacing: 10px;
+    padding-bottom: 10px;
+}
